@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactpanda/static/css/main.70e53c98.css",
+    "main.js": "/reactpanda/static/js/main.e40e66c5.js",
+    "static/js/787.d38a46f5.chunk.js": "/reactpanda/static/js/787.d38a46f5.chunk.js",
+    "index.html": "/reactpanda/index.html",
+    "main.70e53c98.css.map": "/reactpanda/static/css/main.70e53c98.css.map",
+    "main.e40e66c5.js.map": "/reactpanda/static/js/main.e40e66c5.js.map",
+    "787.d38a46f5.chunk.js.map": "/reactpanda/static/js/787.d38a46f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70e53c98.css",
+    "static/js/main.e40e66c5.js"
+  ]
+}
