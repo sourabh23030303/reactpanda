@@ -1,0 +1,75 @@
+#aap .js mai jo function k andr html use kr rhe hai vo jsx hai java scvript se mili hui html likh payenge
+
+
+ #index.js entry point hai jha sare compobnenet jod rakhe hai jese css(index.css) html (restriicted)
+ or java script(aap.js)
+
+
+#public k html mai div with id root hai usko aap.js se restriicted kr rakha hai matlab jo bhi aap.js k function k return k andr khali opening tag k andr karenge vo div mai ajyega baki links script jo main hai vo html vale apge mai likhenge 
+
+
+#how to add bootstrap - just copy frome boot strap scriptsand css frome starter page we can also use reactbrootstrap for heighly customise bootstrap
+
+#agrcomponenet  export k time default use nahi krebnge to impport k time {function name } us e krna padega 
+
+#Propes -passing data frome parent componenet to child componenet -how to use -
+parent componenet mai manlo title likha "mydodo list"or fir child comopenet mai jake matlab vo function k bracket mai jake props likh do to data pass ho jhayega or fir vo data kpo acces krne k litye jha bhi {} is bracket mqai title.props likhenge vo data mil jayega ,we can pass multiple data in parent child and use according to therir name 
+
+// proptypes hm directly child componenet mai krenge use krenge k liye phele import krna padega
+// proprtype se apn prop ka type de sakte hai
+// /header.p (p hemsaha lower case mai use krenge)
+// Header.propTypes = {
+//   title: PropTypes.string
+// }
+// defaultprops se apn bina parent componenet mai variable pass kare parentcomponenet ko  usme variable de sakte hai
+  Header.defaultProps = { pr idhr p upr case mai use hoga
+  title:"uou r title"
+  }
+
+
+###################################################################
+APP2
+ # CONCEPT OF STATE -koi bhi componenet dikh rha hai jesa bhi vo uski statte hai 1.import {usestate}
+
+#npm run build krne se ek foolder bn jayega jis ko direct server pe dalne se  website bn jayefgi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
